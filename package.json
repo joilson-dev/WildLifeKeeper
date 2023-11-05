@@ -1,0 +1,17 @@
+{
+  "name": "wildlifekeeper",
+  "version": "1.0.0",
+  "description": "Explore o Poder das Funções de Ordem Superior e Recursos do JavaScript ES6. Abordagem prática de funções sort, map, filter e reduce.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "faker-br": "^0.4.1"
+  }
+}
